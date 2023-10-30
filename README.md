@@ -1,5 +1,8 @@
-#ABluAxolotl
-Professional I-Dot
+# ABluAxolotl
+Making Games & Having Fun
+
+### Projects I'm Working on:
+MinimixMC, TDZS, OMO
 
 <!--
 **ABluAxolotl/ABluAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
