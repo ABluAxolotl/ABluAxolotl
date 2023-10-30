@@ -1,5 +1,5 @@
-### ABluAxolotl
-Hi I'm Ari. 
+#ABluAxolotl
+Professional I-Dot
 
 <!--
 **ABluAxolotl/ABluAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
