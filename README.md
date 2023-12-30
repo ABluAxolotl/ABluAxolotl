@@ -1,8 +1,12 @@
-# ABluAxolotl
-Making Games & Having Fun
+# <p align="center">ABluAxolotl</p>
+<p align="center"> Making Games; Having Fun </p>
 
-### Projects I'm Working on:
-MinimixMC, TDZS, OMO
+### Projects In Progress
+MinimixMC, TDZS, KE
+
+### Projects Completed
+womp womp ;-;
+
 
 <!--
 **ABluAxolotl/ABluAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
