@@ -4,10 +4,6 @@
 ### Projects In Progress
 MinimixMC, TDZS, KE
 
-### Projects Completed
-womp womp ;-;
-
-
 <!--
 **ABluAxolotl/ABluAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
