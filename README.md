@@ -1,5 +1,5 @@
 # <p align="center">ABluAxolotl</p>
-<p align="center"> Making Games; Having Fun </p>
+<p align="center"> Programmer </p>
 
 ### Projects In Progress
 MinimixMC, TDZS
