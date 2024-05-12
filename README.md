@@ -2,7 +2,7 @@
 <p align="center"> Making Games; Having Fun </p>
 
 ### Projects In Progress
-MinimixMC, TDZS, KE
+MinimixMC, TDZS
 
 <!--
 **ABluAxolotl/ABluAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
