@@ -1,6 +1,8 @@
 # <p align="center">ABluAxolotl</p>
+<div align="center">
 <p align="center"> Programmer, Game Developer, Nerd </p>
 <a align="center" href="https://www.abluaxolotl.xyz/">Website</a>
+</div>
 <!--
 **ABluAxolotl/ABluAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
