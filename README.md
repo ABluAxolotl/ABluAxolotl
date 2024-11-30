@@ -1,9 +1,6 @@
 # <p align="center">ABluAxolotl</p>
-<p align="center"> Programmer </p>
-
-### Projects In Progress
-MinimixMC, TDZS
-
+<p align="center"> Programmer, Game Developer, Nerd </p>
+<a align="center" href="https://www.abluaxolotl.xyz/">Website</a>
 <!--
 **ABluAxolotl/ABluAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
