@@ -1,6 +1,6 @@
 # <p align="center">ABluAxolotl</p>
 <div align="center">
-<p align="center"> Programmer, Game Developer, Nerd </p>
+<p align="center" color="blue"> Programmer, Game Developer, Nerd </p>
 <a align="center" href="https://www.abluaxolotl.xyz/">Website</a>
 </div>
 <!--
