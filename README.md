@@ -1,7 +1,12 @@
 # <p align="center">ABluAxolotl</p>
 <div align="center">
-<p align="center" color="blue"> Programmer, Game Developer, Nerd </p>
-<a align="center" href="https://www.abluaxolotl.xyz/">Website</a>
+### About Me
+  Hello, I'm Nat.
+  I like making games. At any given moment in time I have several Ideas for games that I'd like to make at some point in life.
+
+  My Best Project: <a href="https://www.youtube.com/watch?v=6X6voJ_psEI">Remnant</a>
+  My Most Recent Project: <a href="https://abluaxolotl.itch.io/thesorcerersconsequence">The Sorcerer's Consequence</a>
+<a align="center" href="https://www.abluaxolotl.xyz/">My Website</a>
 </div>
 <!--
 **ABluAxolotl/ABluAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
