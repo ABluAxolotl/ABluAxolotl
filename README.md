@@ -1,7 +1,7 @@
 # <p align="center">ABluAxolotl</p>
 ## About Me
   Hello, I'm Nat.
-  I like making games. At any given moment in time I have several Ideas for games that I'd like to make at some point in life.
+  I spend most of my free time working on, or playing, games.
 <div align="center">
   <b>My Favorite Project:</b> <a href="https://www.youtube.com/watch?v=6X6voJ_psEI">Remnant</a></br>
   <b>My Most Recent Project:</b> <a href="https://abluaxolotl.itch.io/thesorcerersconsequence">The Sorcerer's Consequence</a>
